@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tactic-creation", "tactic-creation\tactic-creation.csproj", "{95CE6FC4-13FD-4878-975D-F1F7819C3955}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{053483BD-840A-484B-B34A-F8BA46254CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CE6FC4-13FD-4878-975D-F1F7819C3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CE6FC4-13FD-4878-975D-F1F7819C3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CE6FC4-13FD-4878-975D-F1F7819C3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CE6FC4-13FD-4878-975D-F1F7819C3955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053483BD-840A-484B-B34A-F8BA46254CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053483BD-840A-484B-B34A-F8BA46254CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053483BD-840A-484B-B34A-F8BA46254CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053483BD-840A-484B-B34A-F8BA46254CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BAAD50B-D527-41FD-927E-88AE237D275D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tactic-creation:
+    image: ${DOCKER_REGISTRY-}tacticcreation
+    build:
+      context: .
+      dockerfile: tactic-creation\Dockerfile
